@@ -99,6 +99,9 @@ I implemented this step in the function `warp_back()`.  Here is an example of my
 
 Here's a [link to my video result](https://youtu.be/x-SUS4qbc_0)
 
+Here's a [link to my challenge video result](https://youtu.be/-8plM_ltVkw) -- I need to tune filtering parameters better though
+
+
 ---
 
 ### Discussion
