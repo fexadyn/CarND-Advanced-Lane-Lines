@@ -13,11 +13,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1i]: ./output_images/undistort.png "Undistorted"
-[image2]: ./output_images/road_tfm.jpg "Road Transformed"
+[image1]: ./output_images/undistort.png "Undistorted"
+[image2]: ./output_images/road_tfm.png "Road Transformed"
 [image3]: ./output_images/thres_combined.jpg "Binary Example"
-[image4]: ./output_images/warp.jpg "Warp Example"
-[image5]: ./output_images/labe_pixels.jpg "Fit Visual"
+[image4]: ./output_images/warp.png "Warp Example"
+[image5]: ./output_images/lane_pixels.jpg "Fit Visual"
 [image6]: ./output_images/final_image.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 
