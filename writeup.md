@@ -110,9 +110,7 @@ I implemented this step in the function `warp_back()`.  Here is an example of my
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](https://youtu.be/x-SUS4qbc_0)
-
-Here's a [link to my challenge video result](https://youtu.be/-8plM_ltVkw) -- I need to tune filtering parameters better though
+Here's a [link to my video result](https://youtu.be/ncpG9NbZ0qA)
 
 
 ---
